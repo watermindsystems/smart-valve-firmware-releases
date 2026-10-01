@@ -22,3 +22,9 @@ below `[Unreleased]`, grouping entries under `Added`, `Changed`, `Fixed`,
 ### Added
 
 - Second firmware release in order to test OTA updates. 
+
+## [v0.0.3] - 2026-10-01
+
+### Added
+
+- Second firmware release in order to test OTA updates. 
