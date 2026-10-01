@@ -16,3 +16,9 @@ below `[Unreleased]`, grouping entries under `Added`, `Changed`, `Fixed`,
 ### Added
 
 - Initial firmware release for the Smart Valve device.
+
+## [v0.0.2] - 2026-10-01
+
+### Added
+
+- Second firmware release in order to test OTA updates. 
