@@ -41,3 +41,9 @@ below `[Unreleased]`, grouping entries under `Added`, `Changed`, `Fixed`,
 ### Added
 
 -  This is fixed to be able to upgrade firmware on missing valve
+
+## [v0.0.6] - 2026-10-04
+
+### Added
+
+-  Another valid version to switch between
