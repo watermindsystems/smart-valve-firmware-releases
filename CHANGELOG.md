@@ -30,8 +30,14 @@ below `[Unreleased]`, grouping entries under `Added`, `Changed`, `Fixed`,
 - Second firmware release in order to test OTA updates. 
 
 
-## [v0.0.3] - 2026-10-04
+## [v0.0.4] - 2026-10-04
 
 ### Added
 
 - Firmware version with OTA updated.
+
+## [v0.0.5] - 2026-10-04
+
+### Added
+
+-  This is fixed to be able to upgrade firmware on missing valve
